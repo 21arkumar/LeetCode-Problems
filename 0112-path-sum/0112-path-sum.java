@@ -14,18 +14,11 @@
  * }
  */
 class Solution {
-    public boolean traversal(TreeNode root, int targetSum, int sum){
+    public boolean hasPathSum(TreeNode root, int sum) {
         if(root == null) return false;
-        int currSum = sum+root.val;
-        System.out.println(currSum);
-        if(currSum == targetSum && root.left == null && root.right == null) return true;
-        return traversal(root.left, targetSum, currSum) || traversal(root.right, targetSum, currSum);
-    }
-    public boolean hasPathSum(TreeNode root, int targetSum) {
-        if(root == null) return false;
-        if(targetSum == root.val && root.left == null && root.right == null) return true;
 
+        if(root.left == null && root.right == null && sum - root.val == 0) return true;
 
-        return traversal(root.left, targetSum, root.val) || traversal(root.right, targetSum, root.val);
+        return hasPathSum(root.left, sum - root.val) || hasPathSum(root.right, sum - root.val);
     }
 }
