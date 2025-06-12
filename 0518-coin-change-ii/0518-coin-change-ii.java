@@ -1,6 +1,6 @@
 class Solution {
     public int change(int amount, int[] coins) {
-        long[] dp = new long[amount+1];
+        int[] dp = new int[amount+1];
         Arrays.fill(dp, 0);
 
         dp[0] = 1;
@@ -11,6 +11,6 @@ class Solution {
             }
         }
 
-        return (int)dp[amount];
+        return dp[amount];
     }
 }
