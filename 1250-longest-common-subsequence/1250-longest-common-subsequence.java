@@ -1,3 +1,4 @@
+//----------------------------Memoization--------------------------
 // class Solution {
 //     int[][] dp;
 //     int helper(String s1, int ind1, String s2, int ind2){
@@ -23,6 +24,7 @@
 //     }
 // }
 
+//--------------------------------Tabulation------------------------------
 class Solution {
     public int longestCommonSubsequence(String text1, String text2) {
         int n = text1.length(), m = text2.length();
