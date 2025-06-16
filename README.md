@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/21arkumar/LeetCode-Problems/tree/master/2196-reverse-nodes-in-even-length-groups) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/21arkumar/LeetCode-Problems/tree/master/0455-assign-cookies) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/21arkumar/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Stack
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
