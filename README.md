@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [2196-reverse-nodes-in-even-length-groups](https://github.com/21arkumar/LeetCode-Problems/tree/master/2196-reverse-nodes-in-even-length-groups) |
 ## Array
 |  |
 | ------- |
