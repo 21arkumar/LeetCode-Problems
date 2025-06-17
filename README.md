@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/21arkumar/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/21arkumar/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/21arkumar/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0518-coin-change-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/21arkumar/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/21arkumar/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/21arkumar/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/21arkumar/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
