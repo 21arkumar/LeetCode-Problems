@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0200-number-of-islands](https://github.com/21arkumar/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/21arkumar/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0518-coin-change-ii) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0113-path-sum-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
