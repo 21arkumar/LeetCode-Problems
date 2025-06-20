@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/21arkumar/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/21arkumar/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/21arkumar/LeetCode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/21arkumar/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/21arkumar/LeetCode-Problems/tree/master/0217-contains-duplicate) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/21arkumar/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/21arkumar/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Stack
 |  |
