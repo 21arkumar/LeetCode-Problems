@@ -174,8 +174,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/21arkumar/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/21arkumar/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/21arkumar/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/21arkumar/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
