@@ -45,6 +45,7 @@
 | [0112-path-sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/21arkumar/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/21arkumar/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
@@ -54,6 +55,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/21arkumar/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0113-path-sum-ii) |
+| [0226-invert-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/21arkumar/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
@@ -109,6 +112,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0113-path-sum-ii) |
+| [0226-invert-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/21arkumar/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Two Pointers
 |  |
