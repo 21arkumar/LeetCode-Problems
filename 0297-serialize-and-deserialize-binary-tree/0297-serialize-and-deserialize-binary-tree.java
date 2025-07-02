@@ -25,12 +25,10 @@ public class Codec {
         StringBuilder str = new StringBuilder();
         
         dfsSerialize(root, str);
-        System.out.println(str.toString());
         return str.toString();
     }
 
     int index = 0;
-
     TreeNode dfsDeserialize(String[] nodes){
         if(index >= nodes.length || nodes[index].equals("null")){
             index++;
