@@ -48,6 +48,7 @@
 | [0200-number-of-islands](https://github.com/21arkumar/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/21arkumar/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0112-path-sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/21arkumar/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/21arkumar/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -121,6 +124,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/21arkumar/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,6 +158,7 @@
 | ------- |
 | [0072-edit-distance](https://github.com/21arkumar/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/21arkumar/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/21arkumar/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/21arkumar/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/21arkumar/LeetCode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -196,4 +201,8 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/21arkumar/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/21arkumar/LeetCode-Problems/tree/master/0338-counting-bits) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
