@@ -14,68 +14,19 @@
  * }
  */
 class Solution {
-    void bfsString(TreeNode node, List<String> str){
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(node);
+    public boolean isSame(TreeNode root, TreeNode subRoot){
+        if(root == null && subRoot == null) return true;
+        if(root == null || subRoot == null) return false;
 
-        while(!q.isEmpty()){
-            StringBuilder temp = new StringBuilder();
+        if(root.val != subRoot.val) return false;
 
-            int n = q.size();
-
-            for(int i = 0; i < n; i++){
-                TreeNode curr = q.poll();
-                if(curr == null){
-                    temp.append("null");
-                    continue;
-                }
-                temp.append(curr.val);
-
-                q.add(curr.left);
-                q.add(curr.right);
-            }
-
-            str.add(temp.toString());
-        }
-    }    
+        return isSame(root.left, subRoot.left) && isSame(root.right, subRoot.right);
+    }
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
-        List<String> subStr = new ArrayList<>();
-        bfsString(subRoot, subStr);
+        if(root == null) return false;
 
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
+        if(isSame(root, subRoot)) return true;
 
-        while(!q.isEmpty()){
-            int n = q.size();
-
-            for(int i = 0; i < n; i++){
-                TreeNode curr = q.poll();
-
-                if(curr.val == subRoot.val){
-                    List<String> rootStr = new ArrayList<>();
-
-                    bfsString(curr, rootStr);
-
-                    if(rootStr.size() != subStr.size()){
-                        if(curr.left != null) q.add(curr.left);
-                        if(curr.right != null) q.add(curr.right);
-                        continue;
-                    }else{
-                        int index = rootStr.size();
-                        boolean flag = true;
-                        for(int _i = 0; _i < index; _i++){
-                            if(!rootStr.get(_i).equals(subStr.get(_i))){
-                                flag = false;
-                                break;
-                            }
-                        }
-                        if(flag) return true;
-                    }
-                }
-                if(curr.left != null) q.add(curr.left);
-                if(curr.right != null) q.add(curr.right);
-            }
-        }
-        return false;
+        return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
     }
 }
