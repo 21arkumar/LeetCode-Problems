@@ -165,6 +165,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/21arkumar/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/21arkumar/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/21arkumar/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -181,6 +182,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/21arkumar/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Backtracking
 |  |
