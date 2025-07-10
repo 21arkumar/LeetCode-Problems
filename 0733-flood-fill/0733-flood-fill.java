@@ -7,7 +7,7 @@ class Pair{
 }
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        if(image[sr][sc] == color) return image;
+
         int[][] dir = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
 
         Queue<Pair> q = new LinkedList<>();
