@@ -10,13 +10,11 @@ class Solution {
                 if(nums1[i] != nums2[j]){
                     st.push(nums2[j]);
                 }else{
-                    while(!st.empty()){
-                        if(st.peek() <= nums1[i]){
-                            st.pop();
-                        }else{
-                            ans[i] = st.pop();
-                            break;
-                        }
+                    while(!st.empty() && st.peek() <= nums1[i]){
+                        st.pop();
+                    }
+                    if(!st.empty()){
+                        ans[i] = st.pop();
                     }
                 }
             }
