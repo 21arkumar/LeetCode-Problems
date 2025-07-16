@@ -36,6 +36,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/21arkumar/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0455-assign-cookies](https://github.com/21arkumar/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/21arkumar/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/21arkumar/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -206,6 +207,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/21arkumar/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Backtracking
 |  |
@@ -260,4 +262,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
