@@ -9,6 +9,7 @@
 | [0141-linked-list-cycle](https://github.com/21arkumar/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/21arkumar/LeetCode-Problems/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Array
@@ -63,6 +64,7 @@
 | [0547-number-of-provinces](https://github.com/21arkumar/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/21arkumar/LeetCode-Problems/tree/master/0733-flood-fill) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/21arkumar/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
@@ -280,4 +282,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/21arkumar/LeetCode-Problems/tree/master/0207-course-schedule) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
