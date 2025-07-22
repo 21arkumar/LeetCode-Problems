@@ -14,22 +14,25 @@
  * }
  */
 class Solution {
+    public int depthCalc(TreeNode node){
+        int depth = 0;
+        while(node != null){
+            depth++;
+            node = node.left;
+        }
+        return depth;
+    }
+
     public int countNodes(TreeNode root) {
         if(root == null) return 0;
-        int count = 0;
-        Queue<TreeNode> q = new LinkedList<>();
 
-        q.add(root);
+        int leftDepth = depthCalc(root.left);
+        int rightDepth = depthCalc(root.right);   
 
-        while(!q.isEmpty()){
-            for(int i = 0; i < q.size(); i++){
-                TreeNode curr = q.poll();
-                if(curr.left != null) q.add(curr.left);
-                if(curr.right != null) q.add(curr.right);
-                count++;
-            }
+        if(leftDepth == rightDepth){
+            return (1 << leftDepth) + countNodes(root.right);
+        }else{
+            return (1 << rightDepth) + countNodes(root.left);
         }
-
-        return count;
     }
 }
