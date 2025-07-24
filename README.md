@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/21arkumar/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/21arkumar/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
@@ -180,6 +181,7 @@
 | [0011-container-with-most-water](https://github.com/21arkumar/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/21arkumar/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/21arkumar/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/21arkumar/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
