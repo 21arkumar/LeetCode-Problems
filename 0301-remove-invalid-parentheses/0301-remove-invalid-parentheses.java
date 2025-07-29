@@ -1,4 +1,5 @@
 class Solution {
+    //checks for the strings validity
     public boolean validParentheses(String str){
         int balance = 0;
         for (char ch : str.toCharArray()) {
@@ -16,7 +17,7 @@ class Solution {
         if (visited.contains(str)) return;
         
         visited.add(str);
-
+        
         if(removeCount == 0){
             if(validParentheses(str)){
                 res.add(str);
@@ -24,8 +25,10 @@ class Solution {
             return;
         }
         for (int i = 0; i < str.length(); i++) {
-            // if (i > 0 && str.charAt(i) == str.charAt(i - 1)) continue;
-            // if (str.charAt(i) != '(' && str.charAt(i) != ')') continue;
+            //skips duplicate characters
+            if (i > 0 && str.charAt(i) == str.charAt(i - 1)) continue;
+            //only checks brackets
+            if (str.charAt(i) != '(' && str.charAt(i) != ')') continue;
 
             StringBuilder sb = new StringBuilder(str);
             sb.deleteCharAt(i);
