@@ -207,6 +207,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/21arkumar/LeetCode-Problems/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/21arkumar/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/21arkumar/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/21arkumar/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Sorting
@@ -234,6 +235,7 @@
 | [0179-largest-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/21arkumar/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
+| [0402-remove-k-digits](https://github.com/21arkumar/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/21arkumar/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/21arkumar/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/21arkumar/LeetCode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -252,6 +254,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/21arkumar/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/21arkumar/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/21arkumar/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
@@ -320,6 +323,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/21arkumar/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/21arkumar/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
