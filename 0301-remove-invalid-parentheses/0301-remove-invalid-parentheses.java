@@ -10,6 +10,8 @@ class Solution {
         }
         return balance == 0;
     }
+
+    //removes brackets
     public void removeParentheses(String str, int removeCount, Set<String> res, Set<String> visited){
         if (visited.contains(str)) return;
         
@@ -23,13 +25,15 @@ class Solution {
         }
         for (int i = 0; i < str.length(); i++) {
             if (i > 0 && str.charAt(i) == str.charAt(i - 1)) continue;
-            if (str.charAt(i) != '(' && str.charAt(i) != ')') continue;
+            //if (str.charAt(i) != '(' && str.charAt(i) != ')') continue;
 
             StringBuilder sb = new StringBuilder(str);
             sb.deleteCharAt(i);
             removeParentheses(sb.toString(), removeCount - 1, res, visited);
         }
     }
+
+    //counts the number of misplaced open or closed brackets
     public int parenCount(String s){
         int open = 0;
         int close = 0;
@@ -45,8 +49,10 @@ class Solution {
         Set<String> res = new LinkedHashSet<>();
         Set<String> visited = new HashSet<>();
 
+        //1. count the number of misplaced characters
         int removeCount = parenCount(s);
 
+        //2. removes brackets and checks for the validity of the string
         removeParentheses(s, removeCount, res, visited);
 
         return new ArrayList<>(res);
