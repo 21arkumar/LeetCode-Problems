@@ -1,5 +1,5 @@
 class Solution {
-    public String stringGen(Stack<String> st){
+    public String stringGen(Stack<Character> st){
         StringBuilder sb = new StringBuilder();
         while(!st.isEmpty()){
             sb.append(st.pop());
@@ -8,24 +8,23 @@ class Solution {
         return sb.reverse().toString().replaceFirst("^0+", "");
     }
     public String removeKdigits(String num, int k) {
-        if(num.length() == k) return "0";
         
-        Stack<String> st = new Stack<>();
-        String[] str = num.split("");
-        
-        for(String ch : str){
-            while(!st.isEmpty() && k > 0 && Integer.parseInt(st.peek()) > Integer.parseInt(ch)){
-                st.pop();
-                k--;
+        Stack<Character> stack = new Stack<>();
+        for (int i = 0; i < num.length(); ++i) {
+            if (stack.isEmpty() || num.charAt(i) >= stack.peek() || k == 0) {
+                stack.push(num.charAt(i));
+            } else {
+                stack.pop();
+                --k;
+                --i;
             }
-            st.push(ch);
         }
 
-        while(k-- > 0 && !st.isEmpty()) {
-            st.pop();
+        while(k-- > 0 && !stack.isEmpty()) {
+            stack.pop();
         }
 
-        String ans = stringGen(st);
+        String ans = stringGen(stack);
         return ans.length() == 0 ? "0" : ans;
 
 
