@@ -1,0 +1,54 @@
+class Solution {
+    public boolean validParentheses(String str){
+        int balance = 0;
+        for (char ch : str.toCharArray()) {
+            if (ch == '(') balance++;
+            else if (ch == ')') {
+                if (balance == 0) return false;
+                balance--;
+            }
+        }
+        return balance == 0;
+    }
+    public void removeParentheses(String str, int removeCount, Set<String> res, Set<String> visited){
+        if (visited.contains(str)) return;
+        
+        visited.add(str);
+
+        if(removeCount == 0){
+            if(validParentheses(str)){
+                res.add(str);
+            }
+            return;
+        }
+        for (int i = 0; i < str.length(); i++) {
+            if (i > 0 && str.charAt(i) == str.charAt(i - 1)) continue;
+            if (str.charAt(i) != '(' && str.charAt(i) != ')') continue;
+
+            StringBuilder sb = new StringBuilder(str);
+            sb.deleteCharAt(i);
+            removeParentheses(sb.toString(), removeCount - 1, res, visited);
+        }
+    }
+    public int parenCount(String s){
+        int open = 0;
+        int close = 0;
+        for(char ch : s.toCharArray()){
+            if(ch == '(') open++;
+            else if(ch == ')' && open > 0) open--;
+            else if(ch == ')') close++;
+        }
+
+        return open+close;
+    }
+    public List<String> removeInvalidParentheses(String s) {
+        Set<String> res = new LinkedHashSet<>();
+        Set<String> visited = new HashSet<>();
+
+        int removeCount = parenCount(s);
+
+        removeParentheses(s, removeCount, res, visited);
+
+        return new ArrayList<>(res);
+    }
+}
