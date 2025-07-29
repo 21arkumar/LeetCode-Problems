@@ -24,8 +24,8 @@ class Solution {
             return;
         }
         for (int i = 0; i < str.length(); i++) {
-            if (i > 0 && str.charAt(i) == str.charAt(i - 1)) continue;
-            //if (str.charAt(i) != '(' && str.charAt(i) != ')') continue;
+            // if (i > 0 && str.charAt(i) == str.charAt(i - 1)) continue;
+            // if (str.charAt(i) != '(' && str.charAt(i) != ')') continue;
 
             StringBuilder sb = new StringBuilder(str);
             sb.deleteCharAt(i);
