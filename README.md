@@ -75,6 +75,7 @@
 | [0733-flood-fill](https://github.com/21arkumar/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/21arkumar/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/21arkumar/LeetCode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -96,6 +97,7 @@
 | [0547-number-of-provinces](https://github.com/21arkumar/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/21arkumar/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/21arkumar/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/21arkumar/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/21arkumar/LeetCode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
@@ -168,6 +170,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/21arkumar/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/21arkumar/LeetCode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -190,6 +193,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/21arkumar/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/21arkumar/LeetCode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Two Pointers
@@ -221,6 +225,7 @@
 | [0179-largest-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/21arkumar/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/21arkumar/LeetCode-Problems/tree/master/0455-assign-cookies) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -281,6 +286,7 @@
 | [0141-linked-list-cycle](https://github.com/21arkumar/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/21arkumar/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1813-maximum-erasure-value](https://github.com/21arkumar/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/21arkumar/LeetCode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Prefix Sum
