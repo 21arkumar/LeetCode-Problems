@@ -22,6 +22,7 @@
 | [0015-3sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/21arkumar/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/21arkumar/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/21arkumar/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/21arkumar/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -285,6 +286,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/21arkumar/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/21arkumar/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/21arkumar/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0494-target-sum) |
