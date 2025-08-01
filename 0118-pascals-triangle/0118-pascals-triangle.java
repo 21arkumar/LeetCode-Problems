@@ -5,7 +5,7 @@ class Solution {
         
         for(int i = 1; i < numRows; i++){
             Integer ptr1 = 0, ptr2 = 0;
-            Integer[] arr = new Integer[i+1];
+            List<Integer> arr = new ArrayList<>();
             for(int j = 0; j < i+1; j++){
                 if(j == 0){
                     ptr1 = 0;
@@ -17,9 +17,9 @@ class Solution {
                     ptr1 = ans.get(i-1).get(j-1);
                     ptr2 = ans.get(i-1).get(j);
                 }
-                arr[j] = ptr1 + ptr2;
+                arr.add(ptr1 + ptr2);
             }
-            ans.add(Arrays.asList(arr));
+            ans.add(arr);
         }
 
         return ans;
