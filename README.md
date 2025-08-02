@@ -287,6 +287,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/21arkumar/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/21arkumar/LeetCode-Problems/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/21arkumar/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0494-target-sum) |
