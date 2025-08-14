@@ -1,26 +1,16 @@
 class Solution {
     public String largestGoodInteger(String num) {
-        int res = 0;
-        boolean found = false;
+        String res = "";
         for(int i = 0; i <= num.length()-3; i++){
-            StringBuilder sb = new StringBuilder();
-            sb.append(num.substring(i, i+3));
-            boolean flag = true;
-            for(int j = 1; j < 3; j++){
-                if(sb.charAt(j) != sb.charAt(j-1)){
-                    flag = false;
-                }
-                if(j == 2 && sb.charAt(j) != sb.charAt(j-1)){
-                    i += 1;
+            if(num.charAt(i) == num.charAt(i+1) && num.charAt(i+1) == num.charAt(i+2)){
+                String temp = num.substring(i, i+3);
+                if(temp.compareTo(res) > 0){
+                    res = temp;
                 }
             }
-            if(flag){
-                res = Math.max(Integer.parseInt(sb.toString()), res);
-                found = true;
-                i += 2;
-            }
+
         }
 
-        return !found ? "" : (res > 0) ? ""+res : "000";
+        return res.length() == 0 ? "" : res;
     }
 }
