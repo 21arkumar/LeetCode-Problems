@@ -16,6 +16,7 @@ class Solution {
             if(flag){
                 res = Math.max(Integer.parseInt(sb.toString()), res);
                 found = true;
+                i += 2;
             }
         }
 
