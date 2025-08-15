@@ -127,6 +127,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/21arkumar/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/21arkumar/LeetCode-Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/21arkumar/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0650-2-keys-keyboard](https://github.com/21arkumar/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 ## Dynamic Programming
 |  |
@@ -245,6 +246,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/21arkumar/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/21arkumar/LeetCode-Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/21arkumar/LeetCode-Problems/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -331,6 +333,7 @@
 | [0191-number-of-1-bits](https://github.com/21arkumar/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/21arkumar/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/21arkumar/LeetCode-Problems/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/21arkumar/LeetCode-Problems/tree/master/0342-power-of-four) |
 ## Design
 |  |
 | ------- |
