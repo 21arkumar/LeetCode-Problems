@@ -129,6 +129,7 @@
 | [0326-power-of-three](https://github.com/21arkumar/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/21arkumar/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0650-2-keys-keyboard](https://github.com/21arkumar/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
+| [1448-maximum-69-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -232,6 +233,7 @@
 | [0402-remove-k-digits](https://github.com/21arkumar/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/21arkumar/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/21arkumar/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1448-maximum-69-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 ## Sorting
 |  |
 | ------- |
