@@ -7,9 +7,9 @@ class Solution {
     public void moveZeroes(int[] nums) {
         int j = 0;
         for(int i = 0; i < nums.length; i++){
-            while(j < nums.length && nums[j] != 0) j++;
-            if(nums[i] != 0 && i > j){
+            if(nums[i] != 0){
                 swap(nums, i, j);
+                j++;
             }
         }
     }
