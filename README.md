@@ -130,6 +130,7 @@
 | [0326-power-of-three](https://github.com/21arkumar/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/21arkumar/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0650-2-keys-keyboard](https://github.com/21arkumar/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
+| [0867-new-21-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
@@ -157,6 +158,7 @@
 | [0542-01-matrix](https://github.com/21arkumar/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/21arkumar/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/21arkumar/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0867-new-21-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/21arkumar/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1250-longest-common-subsequence](https://github.com/21arkumar/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/21arkumar/LeetCode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -376,5 +378,10 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [1813-maximum-erasure-value](https://github.com/21arkumar/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
