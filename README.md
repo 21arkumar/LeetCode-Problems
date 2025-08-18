@@ -49,6 +49,7 @@
 | [0503-next-greater-element-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/21arkumar/LeetCode-Problems/tree/master/0542-01-matrix) |
+| [0679-24-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/21arkumar/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/21arkumar/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0943-sum-of-subarray-minimums](https://github.com/21arkumar/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
@@ -130,6 +131,7 @@
 | [0326-power-of-three](https://github.com/21arkumar/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/21arkumar/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0650-2-keys-keyboard](https://github.com/21arkumar/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
+| [0679-24-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
@@ -303,6 +305,7 @@
 | [0113-path-sum-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/21arkumar/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0679-24-game) |
 ## Hash Table
 |  |
 | ------- |
