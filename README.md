@@ -59,6 +59,7 @@
 | [1580-shuffle-the-array](https://github.com/21arkumar/LeetCode-Problems/tree/master/1580-shuffle-the-array) |
 | [1813-maximum-erasure-value](https://github.com/21arkumar/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/21arkumar/LeetCode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/21arkumar/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [0679-24-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/21arkumar/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
