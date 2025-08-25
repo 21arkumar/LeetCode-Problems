@@ -46,6 +46,7 @@
 | [0455-assign-cookies](https://github.com/21arkumar/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/21arkumar/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/21arkumar/LeetCode-Problems/tree/master/0542-01-matrix) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/21arkumar/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/21arkumar/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/21arkumar/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/21arkumar/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/21arkumar/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/21arkumar/LeetCode-Problems/tree/master/1036-rotting-oranges) |
@@ -406,4 +408,8 @@
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0867-new-21-game) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/21arkumar/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
