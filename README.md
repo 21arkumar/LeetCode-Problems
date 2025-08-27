@@ -66,6 +66,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/21arkumar/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/21arkumar/LeetCode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/21arkumar/LeetCode-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [1559-cherry-pickup-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/1559-cherry-pickup-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/21arkumar/LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/21arkumar/LeetCode-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Math
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/21arkumar/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/21arkumar/LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/21arkumar/LeetCode-Problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/21arkumar/LeetCode-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Tree
 |  |
 | ------- |
@@ -355,6 +358,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/21arkumar/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/21arkumar/LeetCode-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Bit Manipulation
 |  |
 | ------- |
