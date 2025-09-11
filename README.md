@@ -42,6 +42,7 @@
 | [0200-number-of-islands](https://github.com/21arkumar/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/21arkumar/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/21arkumar/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/21arkumar/LeetCode-Problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/21arkumar/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/21arkumar/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/21arkumar/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -272,6 +273,7 @@
 | [0015-3sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/21arkumar/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/21arkumar/LeetCode-Problems/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/21arkumar/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Recursion
@@ -431,4 +433,8 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/21arkumar/LeetCode-Problems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
