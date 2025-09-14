@@ -1,50 +1,57 @@
-class TrieNode {
-    boolean isEndOfWord;
-    TrieNode[] children;
+class Node{
+    Node[] links = new Node[26];
+    boolean flag = false;
 
-    TrieNode() {
-        isEndOfWord = false;
-        children = new TrieNode[26];
+    public Node(){
+
+    }
+
+    boolean containsKey(char ch){
+        return links[ch - 'a'] != null;
+    }
+
+    Node get(char ch){
+        return links[ch - 'a'];
+    }
+
+    void put(char ch, Node node){
+        links[ch - 'a'] = node;
+    }
+
+    void setEnd(){
+        flag = true;
+    }
+
+    boolean isEnd(){
+        return flag;
     }
 }
-
 class Trie {
-    
-    TrieNode getNode(){
-        TrieNode newNode = new TrieNode();
-        newNode.isEndOfWord = false;
-
-        return newNode;
-    }
-    
-    TrieNode root;
-    
+    private static Node root;
     public Trie() {
-        root = getNode();
+        root = new Node();
     }
     
     public void insert(String word) {
-        TrieNode crawler = root;
+        Node node = root;
         for(char ch : word.toCharArray()){
-            int indx = ch - 'a';
-            if(crawler.children[indx] == null){
-                crawler.children[indx] = getNode();
+            if(!node.containsKey(ch)){
+                node.put(ch, new Node());
             }
-            crawler = crawler.children[indx];
+            node = node.get(ch);
         }
-        crawler.isEndOfWord = true;
+        node.setEnd();
     }
     
     public boolean search(String word) {
-        TrieNode crawler = root;
+        Node node = root;
         for(char ch : word.toCharArray()){
-            int indx = ch - 'a';
-            if(crawler.children[indx] == null){
+            if(!node.containsKey(ch)){
                 return false;
             }
-            crawler = crawler.children[indx];
+            node = node.get(ch);
         }
-        if(crawler != null && crawler.isEndOfWord == true){
+        if(node.isEnd()){
             return true;
         }
 
@@ -52,21 +59,15 @@ class Trie {
     }
     
     public boolean startsWith(String prefix) {
-        TrieNode crawler = root;
-        int i = 0;
+        Node node = root;
         for(char ch : prefix.toCharArray()){
-            i++;
-            int indx = ch - 'a';
-            if(crawler.children[indx] == null){
+            if(!node.containsKey(ch)){
                 return false;
             }
-            crawler = crawler.children[indx];
-        }
-        if(i == prefix.length()){
-            return true;
+            node = node.get(ch);
         }
 
-        return false;
+        return true;
     }
 }
 
