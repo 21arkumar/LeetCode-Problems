@@ -14,6 +14,7 @@
 | [0355-design-twitter](https://github.com/21arkumar/LeetCode-Problems/tree/master/0355-design-twitter) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/21arkumar/LeetCode-Problems/tree/master/1582-design-browser-history) |
+| [1905-design-authentication-manager](https://github.com/21arkumar/LeetCode-Problems/tree/master/1905-design-authentication-manager) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/21arkumar/LeetCode-Problems/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Array
@@ -365,6 +366,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/21arkumar/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1813-maximum-erasure-value](https://github.com/21arkumar/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
+| [1905-design-authentication-manager](https://github.com/21arkumar/LeetCode-Problems/tree/master/1905-design-authentication-manager) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/21arkumar/LeetCode-Problems/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/21arkumar/LeetCode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Prefix Sum
@@ -398,6 +400,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/21arkumar/LeetCode-Problems/tree/master/0355-design-twitter) |
 | [1582-design-browser-history](https://github.com/21arkumar/LeetCode-Problems/tree/master/1582-design-browser-history) |
+| [1905-design-authentication-manager](https://github.com/21arkumar/LeetCode-Problems/tree/master/1905-design-authentication-manager) |
 ## String Matching
 |  |
 | ------- |
@@ -432,6 +435,7 @@
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/21arkumar/LeetCode-Problems/tree/master/1582-design-browser-history) |
+| [1905-design-authentication-manager](https://github.com/21arkumar/LeetCode-Problems/tree/master/1905-design-authentication-manager) |
 ## Sliding Window
 |  |
 | ------- |
