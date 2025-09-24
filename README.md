@@ -13,6 +13,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/21arkumar/LeetCode-Problems/tree/master/0355-design-twitter) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/21arkumar/LeetCode-Problems/tree/master/1582-design-browser-history) |
 | [1905-design-authentication-manager](https://github.com/21arkumar/LeetCode-Problems/tree/master/1905-design-authentication-manager) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/21arkumar/LeetCode-Problems/tree/master/2196-reverse-nodes-in-even-length-groups) |
@@ -107,6 +108,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/21arkumar/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/21arkumar/LeetCode-Problems/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/21arkumar/LeetCode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -236,6 +238,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/21arkumar/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/21arkumar/LeetCode-Problems/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/21arkumar/LeetCode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -263,6 +266,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/21arkumar/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/21arkumar/LeetCode-Problems/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/21arkumar/LeetCode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Two Pointers
