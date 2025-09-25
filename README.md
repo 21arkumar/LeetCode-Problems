@@ -31,6 +31,7 @@
 | [0055-jump-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/21arkumar/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/21arkumar/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/21arkumar/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/21arkumar/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/21arkumar/LeetCode-Problems/tree/master/0118-pascals-triangle) |
@@ -350,6 +351,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/21arkumar/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/21arkumar/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/21arkumar/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -444,6 +446,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/21arkumar/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/21arkumar/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
