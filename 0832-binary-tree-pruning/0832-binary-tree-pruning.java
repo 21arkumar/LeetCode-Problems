@@ -16,7 +16,7 @@
 class Solution {
     boolean dfs(TreeNode root){
         if(root == null) return false;
-        if(root.left == null && root.right == null && root.val != 1) return false;
+        // if(root.left == null && root.right == null && root.val != 1) return false;
 
         if(!dfs(root.left)){
             root.left = null;
