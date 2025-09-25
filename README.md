@@ -106,6 +106,7 @@
 | [0733-flood-fill](https://github.com/21arkumar/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/21arkumar/LeetCode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/21arkumar/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
+| [0832-binary-tree-pruning](https://github.com/21arkumar/LeetCode-Problems/tree/master/0832-binary-tree-pruning) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/21arkumar/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -236,6 +237,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/21arkumar/LeetCode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0832-binary-tree-pruning](https://github.com/21arkumar/LeetCode-Problems/tree/master/0832-binary-tree-pruning) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/21arkumar/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -264,6 +266,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/21arkumar/LeetCode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0832-binary-tree-pruning](https://github.com/21arkumar/LeetCode-Problems/tree/master/0832-binary-tree-pruning) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/21arkumar/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
