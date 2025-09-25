@@ -26,6 +26,7 @@
 | [0015-3sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/21arkumar/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/21arkumar/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/21arkumar/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/21arkumar/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0055-jump-game) |
@@ -302,6 +303,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/21arkumar/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/21arkumar/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/21arkumar/LeetCode-Problems/tree/master/0274-h-index) |
@@ -323,6 +325,7 @@
 | [0020-valid-parentheses](https://github.com/21arkumar/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/21arkumar/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/21arkumar/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/21arkumar/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/21arkumar/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/21arkumar/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/21arkumar/LeetCode-Problems/tree/master/0127-word-ladder) |
@@ -378,6 +381,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/21arkumar/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/21arkumar/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/21arkumar/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/21arkumar/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/21arkumar/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
