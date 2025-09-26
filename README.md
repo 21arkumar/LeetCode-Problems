@@ -54,6 +54,7 @@
 | [0289-game-of-life](https://github.com/21arkumar/LeetCode-Problems/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/21arkumar/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/21arkumar/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/21arkumar/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0403-frog-jump](https://github.com/21arkumar/LeetCode-Problems/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/21arkumar/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0494-target-sum) |
@@ -499,6 +500,7 @@
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/21arkumar/LeetCode-Problems/tree/master/0355-design-twitter) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/21arkumar/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Data Stream
 |  |
 | ------- |
