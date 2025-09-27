@@ -45,7 +45,7 @@ class Solution {
 
         for(int i = 0; i < n; i++){
             for(int j = i+1; j < n; j++){
-                if(isConnected[i][i] == isConnected[i][j]){
+                if(isConnected[i][j] == 1){
                     dsu.unionByRank(i+1, j+1);
                 }
             }
@@ -55,7 +55,6 @@ class Solution {
 
         for(int i = 1; i <= n; i++){
             int val = dsu.findParent(i);
-            System.out.println("Parent of " + i + " = " + val);
             set.add(val);
         }
 
