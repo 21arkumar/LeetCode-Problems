@@ -15,30 +15,29 @@
  */
 class Solution {
     int sum = 0;
-    public void findPota(TreeNode curr, int depth){
+    public void findPota(TreeNode curr){
         if(curr == null) return;
-        if(depth == 2){
-            sum += curr.val;
-            return;
+
+        if(curr.val % 2 == 0){
+            if(curr.left != null && curr.left.left != null){
+                sum += curr.left.left.val;
+            }
+            if(curr.left != null && curr.left.right != null){
+                sum += curr.left.right.val;
+            }
+            if(curr.right != null && curr.right.left != null){
+                sum += curr.right.left.val;
+            }
+            if(curr.right != null && curr.right.right != null){
+                sum += curr.right.right.val;
+            }
         }
 
-        findPota(curr.left, depth + 1);
-        findPota(curr.right, depth + 1);
+        findPota(curr.left);
+        findPota(curr.right);
     }
     public int sumEvenGrandparent(TreeNode root) {
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
-        
-        while(!q.isEmpty()){
-            TreeNode curr = q.poll();
-
-            if(curr.val % 2 == 0){
-                findPota(curr, 0);
-            }
-
-            if(curr.left != null) q.add(curr.left);
-            if(curr.right != null) q.add(curr.right);
-        }   
+        findPota(root);
 
         return sum;
     }
