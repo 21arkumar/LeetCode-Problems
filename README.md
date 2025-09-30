@@ -77,6 +77,7 @@
 | [1582-design-browser-history](https://github.com/21arkumar/LeetCode-Problems/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/21arkumar/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/21arkumar/LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/21arkumar/LeetCode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1813-maximum-erasure-value](https://github.com/21arkumar/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/21arkumar/LeetCode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/21arkumar/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -220,6 +221,7 @@
 | [1559-cherry-pickup-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/1559-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/21arkumar/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/21arkumar/LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/21arkumar/LeetCode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/21arkumar/LeetCode-Problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/21arkumar/LeetCode-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Tree
@@ -319,6 +321,7 @@
 | [0455-assign-cookies](https://github.com/21arkumar/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0843-binary-trees-with-factors](https://github.com/21arkumar/LeetCode-Problems/tree/master/0843-binary-trees-with-factors) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/21arkumar/LeetCode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Recursion
 |  |
 | ------- |
