@@ -80,6 +80,7 @@
 | [1580-shuffle-the-array](https://github.com/21arkumar/LeetCode-Problems/tree/master/1580-shuffle-the-array) |
 | [1582-design-browser-history](https://github.com/21arkumar/LeetCode-Problems/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/21arkumar/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/21arkumar/LeetCode-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/21arkumar/LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/21arkumar/LeetCode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1813-maximum-erasure-value](https://github.com/21arkumar/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
@@ -326,6 +327,7 @@
 | [0611-valid-triangle-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/21arkumar/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1448-maximum-69-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/1448-maximum-69-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/21arkumar/LeetCode-Problems/tree/master/1612-avoid-flood-in-the-city) |
 ## Sorting
 |  |
 | ------- |
@@ -385,6 +387,7 @@
 | [0794-swim-in-rising-water](https://github.com/21arkumar/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/21arkumar/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1612-avoid-flood-in-the-city](https://github.com/21arkumar/LeetCode-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/21arkumar/LeetCode-Problems/tree/master/2060-merge-bsts-to-create-single-bst) |
 ## Stack
 |  |
@@ -429,6 +432,7 @@
 | [0843-binary-trees-with-factors](https://github.com/21arkumar/LeetCode-Problems/tree/master/0843-binary-trees-with-factors) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/21arkumar/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1612-avoid-flood-in-the-city](https://github.com/21arkumar/LeetCode-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/21arkumar/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1905-design-authentication-manager](https://github.com/21arkumar/LeetCode-Problems/tree/master/1905-design-authentication-manager) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/21arkumar/LeetCode-Problems/tree/master/2060-merge-bsts-to-create-single-bst) |
@@ -537,6 +541,7 @@
 | [0355-design-twitter](https://github.com/21arkumar/LeetCode-Problems/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/21arkumar/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0794-swim-in-rising-water](https://github.com/21arkumar/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/21arkumar/LeetCode-Problems/tree/master/1612-avoid-flood-in-the-city) |
 ## Data Stream
 |  |
 | ------- |
