@@ -91,6 +91,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/21arkumar/LeetCode-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/21arkumar/LeetCode-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/21arkumar/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 ## Depth-First Search
 |  |
@@ -447,6 +448,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/21arkumar/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/21arkumar/LeetCode-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -531,6 +533,7 @@
 | [0289-game-of-life](https://github.com/21arkumar/LeetCode-Problems/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/21arkumar/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/21arkumar/LeetCode-Problems/tree/master/1642-water-bottles) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/21arkumar/LeetCode-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Trie
 |  |
 | ------- |
