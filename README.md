@@ -75,6 +75,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/21arkumar/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/21arkumar/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/21arkumar/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/21arkumar/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/21arkumar/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/1559-cherry-pickup-ii) |
 | [1580-shuffle-the-array](https://github.com/21arkumar/LeetCode-Problems/tree/master/1580-shuffle-the-array) |
@@ -347,6 +348,7 @@
 | [0611-valid-triangle-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0843-binary-trees-with-factors](https://github.com/21arkumar/LeetCode-Problems/tree/master/0843-binary-trees-with-factors) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/21arkumar/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/21arkumar/LeetCode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/21arkumar/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/21arkumar/LeetCode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -378,6 +380,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/21arkumar/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/21arkumar/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/21arkumar/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/21arkumar/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/21arkumar/LeetCode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/21arkumar/LeetCode-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3797-design-spreadsheet](https://github.com/21arkumar/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
@@ -443,6 +446,7 @@
 | [0843-binary-trees-with-factors](https://github.com/21arkumar/LeetCode-Problems/tree/master/0843-binary-trees-with-factors) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/21arkumar/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/21arkumar/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/21arkumar/LeetCode-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/21arkumar/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1905-design-authentication-manager](https://github.com/21arkumar/LeetCode-Problems/tree/master/1905-design-authentication-manager) |
