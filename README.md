@@ -200,6 +200,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/21arkumar/LeetCode-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/21arkumar/LeetCode-Problems/tree/master/1642-water-bottles) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/21arkumar/LeetCode-Problems/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/21arkumar/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Dynamic Programming
