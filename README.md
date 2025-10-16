@@ -88,6 +88,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/21arkumar/LeetCode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/21arkumar/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/21arkumar/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/21arkumar/LeetCode-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/21arkumar/LeetCode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/21arkumar/LeetCode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/21arkumar/LeetCode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -202,6 +203,7 @@
 | [1642-water-bottles](https://github.com/21arkumar/LeetCode-Problems/tree/master/1642-water-bottles) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/21arkumar/LeetCode-Problems/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/21arkumar/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/21arkumar/LeetCode-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Dynamic Programming
 |  |
@@ -338,6 +340,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/21arkumar/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1448-maximum-69-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/21arkumar/LeetCode-Problems/tree/master/1612-avoid-flood-in-the-city) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/21arkumar/LeetCode-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -454,6 +457,7 @@
 | [1905-design-authentication-manager](https://github.com/21arkumar/LeetCode-Problems/tree/master/1905-design-authentication-manager) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/21arkumar/LeetCode-Problems/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/21arkumar/LeetCode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/21arkumar/LeetCode-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/21arkumar/LeetCode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3797-design-spreadsheet](https://github.com/21arkumar/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
