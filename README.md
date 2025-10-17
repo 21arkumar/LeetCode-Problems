@@ -246,6 +246,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/21arkumar/LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/21arkumar/LeetCode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/21arkumar/LeetCode-Problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/21arkumar/LeetCode-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/21arkumar/LeetCode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/21arkumar/LeetCode-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Tree
@@ -388,6 +389,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/21arkumar/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/21arkumar/LeetCode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/21arkumar/LeetCode-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/21arkumar/LeetCode-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3797-design-spreadsheet](https://github.com/21arkumar/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 ## Binary Search Tree
 |  |
@@ -487,6 +489,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/21arkumar/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/21arkumar/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/21arkumar/LeetCode-Problems/tree/master/0342-power-of-four) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/21arkumar/LeetCode-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Design
 |  |
@@ -584,4 +587,8 @@
 | [1153-product-sales-analysis-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/1153-product-sales-analysis-i) |
 | [1827-invalid-tweets](https://github.com/21arkumar/LeetCode-Problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/21arkumar/LeetCode-Problems/tree/master/1908-recyclable-and-low-fat-products) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/21arkumar/LeetCode-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
