@@ -205,6 +205,7 @@
 | [1448-maximum-69-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/21arkumar/LeetCode-Problems/tree/master/1642-water-bottles) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/21arkumar/LeetCode-Problems/tree/master/1674-minimum-operations-to-make-array-equal) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/21arkumar/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/21arkumar/LeetCode-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -440,6 +441,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/21arkumar/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0679-24-game) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -465,6 +467,7 @@
 | [1813-maximum-erasure-value](https://github.com/21arkumar/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1905-design-authentication-manager](https://github.com/21arkumar/LeetCode-Problems/tree/master/1905-design-authentication-manager) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/21arkumar/LeetCode-Problems/tree/master/2060-merge-bsts-to-create-single-bst) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/21arkumar/LeetCode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/21arkumar/LeetCode-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/21arkumar/LeetCode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -572,6 +575,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/21arkumar/LeetCode-Problems/tree/master/0274-h-index) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/21arkumar/LeetCode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Heap (Priority Queue)
 |  |
@@ -605,6 +609,7 @@
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/21arkumar/LeetCode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Combinatorics
 |  |
 | ------- |
