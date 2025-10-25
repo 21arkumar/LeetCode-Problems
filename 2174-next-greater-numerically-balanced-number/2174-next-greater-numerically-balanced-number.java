@@ -1,8 +1,12 @@
 class Solution {
+    static List<Integer> list = new ArrayList<>();
+
     public int nextBeautifulNumber(int n) {
-        List<Integer> list = new ArrayList<>();
-        generate(0, new int[10], list);
-        Collections.sort(list);
+        if(list.isEmpty()){
+            generate(0, new int[10], list);
+            Collections.sort(list);
+        }
+        
         for (int num : list) {
             if (num > n) return num;
         }
