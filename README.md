@@ -86,6 +86,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/21arkumar/LeetCode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1813-maximum-erasure-value](https://github.com/21arkumar/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/21arkumar/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/21arkumar/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/21arkumar/LeetCode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/21arkumar/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/21arkumar/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -468,6 +469,7 @@
 | [1813-maximum-erasure-value](https://github.com/21arkumar/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1905-design-authentication-manager](https://github.com/21arkumar/LeetCode-Problems/tree/master/1905-design-authentication-manager) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/21arkumar/LeetCode-Problems/tree/master/2060-merge-bsts-to-create-single-bst) |
+| [2169-simple-bank-system](https://github.com/21arkumar/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/21arkumar/LeetCode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/21arkumar/LeetCode-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -510,6 +512,7 @@
 | [0355-design-twitter](https://github.com/21arkumar/LeetCode-Problems/tree/master/0355-design-twitter) |
 | [1582-design-browser-history](https://github.com/21arkumar/LeetCode-Problems/tree/master/1582-design-browser-history) |
 | [1905-design-authentication-manager](https://github.com/21arkumar/LeetCode-Problems/tree/master/1905-design-authentication-manager) |
+| [2169-simple-bank-system](https://github.com/21arkumar/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 | [3797-design-spreadsheet](https://github.com/21arkumar/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 ## String Matching
 |  |
@@ -566,6 +569,7 @@
 | [0498-diagonal-traverse](https://github.com/21arkumar/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/21arkumar/LeetCode-Problems/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/21arkumar/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/21arkumar/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/21arkumar/LeetCode-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Trie
