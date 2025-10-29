@@ -66,6 +66,7 @@
 | [0503-next-greater-element-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/21arkumar/LeetCode-Problems/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/21arkumar/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/21arkumar/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -461,6 +462,7 @@
 | [0217-contains-duplicate](https://github.com/21arkumar/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0355-design-twitter](https://github.com/21arkumar/LeetCode-Problems/tree/master/0355-design-twitter) |
 | [0496-next-greater-element-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/21arkumar/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0843-binary-trees-with-factors](https://github.com/21arkumar/LeetCode-Problems/tree/master/0843-binary-trees-with-factors) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/21arkumar/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -479,6 +481,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/21arkumar/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/21arkumar/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/21arkumar/LeetCode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/21arkumar/LeetCode-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
