@@ -27,6 +27,7 @@
 | [0015-3sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/21arkumar/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/21arkumar/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/21arkumar/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/21arkumar/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/21arkumar/LeetCode-Problems/tree/master/0053-maximum-subarray) |
@@ -177,6 +178,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/21arkumar/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/21arkumar/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/21arkumar/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/21arkumar/LeetCode-Problems/tree/master/0200-number-of-islands) |
@@ -196,6 +198,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/21arkumar/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/21arkumar/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/21arkumar/LeetCode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/21arkumar/LeetCode-Problems/tree/master/0326-power-of-three) |
