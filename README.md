@@ -614,6 +614,7 @@
 | [1153-product-sales-analysis-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/21arkumar/LeetCode-Problems/tree/master/1390-average-selling-price) |
+| [1683-invalid-tweets](https://github.com/21arkumar/LeetCode-Problems/tree/master/1683-invalid-tweets) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/21arkumar/LeetCode-Problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/21arkumar/LeetCode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1801-average-time-of-process-per-machine](https://github.com/21arkumar/LeetCode-Problems/tree/master/1801-average-time-of-process-per-machine) |
