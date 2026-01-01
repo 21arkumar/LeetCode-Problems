@@ -32,6 +32,7 @@
 | [0051-n-queens](https://github.com/21arkumar/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/21arkumar/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/21arkumar/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/21arkumar/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/21arkumar/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/21arkumar/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/21arkumar/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/21arkumar/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/21arkumar/LeetCode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/21arkumar/LeetCode-Problems/tree/master/0326-power-of-three) |
