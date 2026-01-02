@@ -77,6 +77,7 @@
 | [0843-binary-trees-with-factors](https://github.com/21arkumar/LeetCode-Problems/tree/master/0843-binary-trees-with-factors) |
 | [0943-sum-of-subarray-minimums](https://github.com/21arkumar/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-delete-columns-to-make-sorted](https://github.com/21arkumar/LeetCode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/21arkumar/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1036-rotting-oranges](https://github.com/21arkumar/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/21arkumar/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/21arkumar/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -471,6 +472,7 @@
 | [0496-next-greater-element-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/21arkumar/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0843-binary-trees-with-factors](https://github.com/21arkumar/LeetCode-Problems/tree/master/0843-binary-trees-with-factors) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/21arkumar/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/21arkumar/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/21arkumar/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
