@@ -254,6 +254,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/21arkumar/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1250-longest-common-subsequence](https://github.com/21arkumar/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/21arkumar/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/21arkumar/LeetCode-Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/21arkumar/LeetCode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1559-cherry-pickup-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/1559-cherry-pickup-ii) |
