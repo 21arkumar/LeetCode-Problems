@@ -91,6 +91,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/21arkumar/LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/21arkumar/LeetCode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1813-maximum-erasure-value](https://github.com/21arkumar/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
+| [1975-maximum-matrix-sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/21arkumar/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/21arkumar/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/21arkumar/LeetCode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -196,6 +197,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/21arkumar/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/1559-cherry-pickup-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/21arkumar/LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [1975-maximum-matrix-sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/21arkumar/LeetCode-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3797-design-spreadsheet](https://github.com/21arkumar/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
@@ -359,6 +361,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/21arkumar/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1448-maximum-69-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/21arkumar/LeetCode-Problems/tree/master/1612-avoid-flood-in-the-city) |
+| [1975-maximum-matrix-sum](https://github.com/21arkumar/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/21arkumar/LeetCode-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Sorting
 |  |
