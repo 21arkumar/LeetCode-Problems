@@ -258,6 +258,7 @@
 | [0542-01-matrix](https://github.com/21arkumar/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/21arkumar/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/21arkumar/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/21arkumar/LeetCode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/21arkumar/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0843-binary-trees-with-factors](https://github.com/21arkumar/LeetCode-Problems/tree/master/0843-binary-trees-with-factors) |
 | [0867-new-21-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0867-new-21-game) |
@@ -419,6 +420,7 @@
 | [0402-remove-k-digits](https://github.com/21arkumar/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/21arkumar/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/21arkumar/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/21arkumar/LeetCode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/21arkumar/LeetCode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1250-longest-common-subsequence](https://github.com/21arkumar/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/21arkumar/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
