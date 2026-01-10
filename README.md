@@ -135,6 +135,7 @@
 | [0794-swim-in-rising-water](https://github.com/21arkumar/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/21arkumar/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0832-binary-tree-pruning](https://github.com/21arkumar/LeetCode-Problems/tree/master/0832-binary-tree-pruning) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/21arkumar/LeetCode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/21arkumar/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -168,6 +169,7 @@
 | [0733-flood-fill](https://github.com/21arkumar/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/21arkumar/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/21arkumar/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/21arkumar/LeetCode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/21arkumar/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -297,6 +299,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/21arkumar/LeetCode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0832-binary-tree-pruning](https://github.com/21arkumar/LeetCode-Problems/tree/master/0832-binary-tree-pruning) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/21arkumar/LeetCode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/21arkumar/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -329,6 +332,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/21arkumar/LeetCode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0832-binary-tree-pruning](https://github.com/21arkumar/LeetCode-Problems/tree/master/0832-binary-tree-pruning) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/21arkumar/LeetCode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/21arkumar/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -487,6 +491,7 @@
 | [0496-next-greater-element-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/21arkumar/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0843-binary-trees-with-factors](https://github.com/21arkumar/LeetCode-Problems/tree/master/0843-binary-trees-with-factors) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/21arkumar/LeetCode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/21arkumar/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/21arkumar/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
