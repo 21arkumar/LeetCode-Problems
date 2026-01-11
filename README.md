@@ -36,6 +36,7 @@
 | [0073-set-matrix-zeroes](https://github.com/21arkumar/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/21arkumar/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/21arkumar/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/21arkumar/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/21arkumar/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/21arkumar/LeetCode-Problems/tree/master/0118-pascals-triangle) |
@@ -191,6 +192,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/21arkumar/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/21arkumar/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/21arkumar/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/21arkumar/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/21arkumar/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/21arkumar/LeetCode-Problems/tree/master/0289-game-of-life) |
@@ -239,6 +241,7 @@
 | [0055-jump-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/21arkumar/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/21arkumar/LeetCode-Problems/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/21arkumar/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/21arkumar/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/21arkumar/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/21arkumar/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -455,6 +458,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/21arkumar/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/21arkumar/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/21arkumar/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/21arkumar/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -568,6 +572,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/21arkumar/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/21arkumar/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/21arkumar/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
