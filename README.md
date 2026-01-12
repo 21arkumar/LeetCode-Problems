@@ -81,6 +81,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/21arkumar/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1036-rotting-oranges](https://github.com/21arkumar/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/21arkumar/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1266-minimum-time-visiting-all-points](https://github.com/21arkumar/LeetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/21arkumar/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/21arkumar/LeetCode-Problems/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/21arkumar/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -221,6 +222,7 @@
 | [0650-2-keys-keyboard](https://github.com/21arkumar/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0679-24-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/21arkumar/LeetCode-Problems/tree/master/0867-new-21-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/21arkumar/LeetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/21arkumar/LeetCode-Problems/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/21arkumar/LeetCode-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/1448-maximum-69-number) |
@@ -671,4 +673,8 @@
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/21arkumar/LeetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
