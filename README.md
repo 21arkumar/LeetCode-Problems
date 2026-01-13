@@ -104,6 +104,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/21arkumar/LeetCode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/21arkumar/LeetCode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/21arkumar/LeetCode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/3453-separate-squares-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -455,6 +456,7 @@
 | [2060-merge-bsts-to-create-single-bst](https://github.com/21arkumar/LeetCode-Problems/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/21arkumar/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/21arkumar/LeetCode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/3453-separate-squares-i) |
 ## Stack
 |  |
 | ------- |
