@@ -4,11 +4,11 @@ class Solution {
         int n = matrix[0].length;
 
         for(int i = 0; i < n; i++){
-            matrix[x][i] = -1;
+            matrix[x][i] = 0;
         } 
 
         for(int i = 0; i < m; i++){
-            matrix[i][y] = -1;
+            matrix[i][y] = 0;
         } 
     }
 
@@ -21,7 +21,7 @@ class Solution {
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
                 if(matrix[i][j] == 0){
-                    convert(temp, i, j);
+                    temp[i][j] = -1;
                 }
             }
         }
@@ -29,7 +29,7 @@ class Solution {
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
                 if(temp[i][j] == -1){
-                    matrix[i][j] = 0;
+                    convert(matrix, i, j);
                 }
             }
         }
