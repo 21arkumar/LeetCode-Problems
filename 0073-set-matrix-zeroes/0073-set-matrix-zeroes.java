@@ -1,34 +1,27 @@
 class Solution {
-    public void convert(int[][] matrix, int x, int y){
-        int m = matrix.length;
-        int n = matrix[0].length;
-
-        for(int i = 0; i < n; i++){
-            matrix[x][i] = 0;
-        } 
-
-        for(int i = 0; i < m; i++){
-            matrix[i][y] = 0;
-        } 
+    void convert(int[][] mat, int x, int y){
+        for(int i = 0; i < mat[0].length ;i++){
+            mat[x][i] = 0;
+        }
+        for(int i = 0; i < mat.length ;i++){
+            mat[i][y] = 0;
+        }
     }
-
     public void setZeroes(int[][] matrix) {
         int m = matrix.length;
         int n = matrix[0].length;
 
-        boolean[][] temp = new boolean[m][n];
+        boolean[][] zero = new boolean[m][n];
 
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
-                if(matrix[i][j] == 0){
-                    temp[i][j] = true;
-                }
+                if(matrix[i][j] == 0) zero[i][j] = true;
             }
         }
 
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
-                if(temp[i][j]){
+                if(matrix[i][j] == 0 && zero[i][j]){
                     convert(matrix, i, j);
                 }
             }
