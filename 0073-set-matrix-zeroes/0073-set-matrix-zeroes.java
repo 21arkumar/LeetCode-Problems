@@ -16,19 +16,19 @@ class Solution {
         int m = matrix.length;
         int n = matrix[0].length;
 
-        int[][] temp = new int[m][n];
+        boolean[][] temp = new boolean[m][n];
 
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
                 if(matrix[i][j] == 0){
-                    temp[i][j] = -1;
+                    temp[i][j] = true;
                 }
             }
         }
 
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
-                if(temp[i][j] == -1){
+                if(temp[i][j]){
                     convert(matrix, i, j);
                 }
             }
