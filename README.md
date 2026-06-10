@@ -62,6 +62,7 @@
 | [0217-contains-duplicate](https://github.com/21arkumar/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/21arkumar/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/21arkumar/LeetCode-Problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/21arkumar/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/21arkumar/LeetCode-Problems/tree/master/0289-game-of-life) |
@@ -232,6 +233,7 @@
 | [0070-climbing-stairs](https://github.com/21arkumar/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/21arkumar/LeetCode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/21arkumar/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/21arkumar/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/21arkumar/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0650-2-keys-keyboard](https://github.com/21arkumar/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
@@ -414,6 +416,7 @@
 | [0179-largest-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/21arkumar/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/21arkumar/LeetCode-Problems/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/21arkumar/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
@@ -471,6 +474,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/21arkumar/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/21arkumar/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/21arkumar/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/21arkumar/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
@@ -522,6 +526,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/21arkumar/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/21arkumar/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/21arkumar/LeetCode-Problems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/21arkumar/LeetCode-Problems/tree/master/0355-design-twitter) |
 | [0496-next-greater-element-i](https://github.com/21arkumar/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/21arkumar/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -568,6 +573,7 @@
 | [0136-single-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/21arkumar/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/21arkumar/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/21arkumar/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/21arkumar/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/21arkumar/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/21arkumar/LeetCode-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
